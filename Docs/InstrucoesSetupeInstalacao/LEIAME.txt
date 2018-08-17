@@ -1,0 +1,1 @@
+Pasta para adicionar o documentos que ilustra os passos a serem seguidos para o set up do projeto
